@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studets on SMKN 2 Depok
+- 🔭 I’m currently student on SMKN 2 Depok
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with simple coding with GO
 - 💬 Ask me about Golang
