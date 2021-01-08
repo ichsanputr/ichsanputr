@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
+- 😄 Pronouns: Hi! Iam Ichsan, I'm still a student, and interested with Golang
 - 🔭 I’m currently student on SMKN 2 Depok
 - 🌱 I’m currently learning Golang
 - 📫 How to contact me: <a href="wa.me/6281325184866">Whatsapp Here</a>
-- 😄 Pronouns: Hi! Iam Ichsan, I'm still a student, and interested with Golang
 
 
 ### Languages and Tools:
