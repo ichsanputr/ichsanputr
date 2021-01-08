@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 Pronouns: Hi! Iam Ichsan, I'm still a student, and interested with Golang
-- 🔭 I’m currently student on SMKN 2 Depok
-- 👨 15 years old person
+- 🔭 I’m currently student on <a href="https://smkn2depoksleman.sch.id/wp/">SMKN 2 Depok</a>
+- 👨 15 years old person 
 - 🌱 I’m currently learning Golang
 - 📫 How to contact me: <a href="wa.me/6281325184866">Whatsapp Here</a>
 
