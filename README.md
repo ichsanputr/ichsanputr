@@ -36,7 +36,8 @@
 
 ---
 
-<img align="left" alt="Adji Pangestu Github Stats" src="https://github-readme-stats.vercel.app/api?username=adjipangestu&show_icons=true&hide_border=true" />
+<img align="left" alt="Adji Pangestu Github Stats" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ichsanputr)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 [website]: https://www.kumis.id/
 [twitter]: https://twitter.com/adjipangstu
