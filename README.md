@@ -15,16 +15,6 @@
 <br />
 
 ---
-
-<img align="left" alt="Adji Pangestu Github Stats" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ichsanputr)](https://github.com/anuraghazra/github-readme-stats)
-" />
-
-[website]: https://www.kumis.id/
-[twitter]: https://twitter.com/adjipangstu
-[youtube]: https://www.youtube.com/channel/UCMhaUJnTVEfKuLikbsjdDuw
-[instagram]: https://instagram.com/adjipangstu
-[linkedin]: https://www.linkedin.com/in/adjipangestu/
-[work]: https://www.detik.com/
 <!--
 **ichsanputr/ichsanputr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
