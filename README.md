@@ -4,7 +4,7 @@
 - 🔭 I’m currently student on <a href="https://smkn2depoksleman.sch.id/wp/">SMKN 2 Depok</a>
 - 👨 16 years old person 
 - 🌱 I’m currently learning Golang
-- 📫 How to contact me: <a href="wa.me/6281325184866">Whatsapp Here</a>
+- 📫 How to contact me: <a href="https://wa.me/6281325184866">Whatsapp Here</a>
 
 
 ### Languages and Tools:
