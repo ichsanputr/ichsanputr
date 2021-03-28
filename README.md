@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-- 😄 Pronouns: Hi! Iam <a href="https://web.facebook.com/aq.qmoeh/">Ichsan</a>, I'm still a student, and interested with Golang
 - 🔭 I’m currently student on <a href="https://smkn2depoksleman.sch.id/wp/">SMKN 2 Depok</a>
 - 👨 16 years old person 
-- 🌱 I’m currently learning Golang
 - 📫 How to contact me: <a href="https://wa.me/6281325184866">Whatsapp Here</a>
 
 
