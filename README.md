@@ -10,7 +10,7 @@
 
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=ichsanputr&color=00bcd5)
+![Profile Visitor](https://komarev.com/ghpvc/?username=ichsanputr&color=00bcd5)
 
 ---
 <!--
