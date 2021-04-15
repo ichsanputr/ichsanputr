@@ -10,7 +10,7 @@
 
 <br />
 <br />
-![Profile Visitor](https://komarev.com/ghpvc/?username=ichsanputr&color=00bcd5)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 ---
 <!--
