@@ -4,8 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichsanputr&label=Profile%20views&color=0e75b6&style=flat" alt="ichsanputr" /> </p>
 
+- 👨 16 years old person
 - 🔭 I’m currently study on [SMKN 2 DEPOK](https://smkn2depoksleman.sch.id/wp/)
--  connect me in facebook <a href="https://fb.com/ichsanputr" target="blank">fb.com/ichsanputr</a>
+- 😆 Connect me in facebook <a href="https://fb.com/ichsanputr" target="blank">fb.com/ichsanputr</a>
+- 😬 And my instagram <a href="https://instagram.com/ichsanputr" target="blank">ichsanputr</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
