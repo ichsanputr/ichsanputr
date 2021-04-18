@@ -7,7 +7,7 @@
 - 👨 16 years old person
 - 🔭 I’m currently study on [SMKN 2 DEPOK](https://smkn2depoksleman.sch.id/wp/)
 - 😆 Connect me in facebook <a href="https://fb.com/ichsanputr" target="blank">fb.com/ichsanputr</a>
-- 😬 And my instagram <a href="https://instagram.com/ichsanputr" target="blank">ichsanputr</a>
+- 😬 And my instagram <a href="https://instagram.com/ichsanputr" target="blank">@ichsanputr</a>
 
 
 <h3 align="left">Technology I Use</h3>
