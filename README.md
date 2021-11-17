@@ -8,7 +8,7 @@
 - 🔭 I’m currently study on [SMKN 2 DEPOK](https://smkn2depoksleman.sch.id/wp/)
 - 😆 Connect me in facebook <a href="https://fb.com/ichsanputr" target="blank">fb.com/ichsanputr</a>
 - 😬 And my instagram <a href="https://instagram.com/ichsanputr" target="blank">@ichsanputr</a>
-- 😬 Write article in <a href="https://www.sinaukode.com" target="blank">sinaukode.com</a>
+- 😬 Write article in <a href="https://www.muhammadichsan.com" target="blank">muhammadichsan.com</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanputr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Technology I Use</h3>
