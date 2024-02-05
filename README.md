@@ -1,3 +1,3 @@
 <h1>Hi 👋, I'm Muhammad Ichsan</h1>
 
-A student and backend developer :octocat:
+19 y.o Iam Fullstack Developer using Golang, Node.js and Vue.js and i also still a Student  :octocat:
