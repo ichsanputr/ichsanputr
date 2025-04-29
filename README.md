@@ -1,3 +1,4 @@
 <h1>Hi 👋, I'm Muhammad Ichsan</h1>
 
-19 y.o Iam Fullstack Developer using Golang, Node.js and Vue.js, feel free for open source project or another kind project :octocat:
+Fullstack Developer specialized in Vue.js, Rust, and Golang.
+Feel free to reach out for open source projects or any other kinds of projects! :octocat:
